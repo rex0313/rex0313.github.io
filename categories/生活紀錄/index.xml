@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生活紀錄 on Rex&#39;s Blog</title>
+    <link>https://rex0313.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/</link>
+    <description>Recent content in 生活紀錄 on Rex&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hant-TW</language>
+    <lastBuildDate>Sat, 01 Aug 2020 12:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://rex0313.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, World!! 第一篇文章</title>
+      <link>https://rex0313.github.io/blog/first-post/</link>
+      <pubDate>Sat, 01 Aug 2020 12:00:00 +0800</pubDate>
+      
+      <guid>https://rex0313.github.io/blog/first-post/</guid>
+      <description>大家好，我叫 Rex，一位出生於台灣南端的普通宅男。
+我畢業於國立宜蘭大學生物機電工程學系 ( 前身為農業機械工程學 )。生機系是強調跨領域整合的學系，在這樣的學習環境的薰陶下，我們有不排斥對於不同領域的接觸的勇氣 ( 大概吧 &amp;hellip; )。</description>
+    </item>
+    
+  </channel>
+</rss>
